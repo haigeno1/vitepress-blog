@@ -62,6 +62,6 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ],
     // 部署的时候需要注意该参数避免样式丢失
-  }
+  },
   base: "/vitepress-blog/"
 })
