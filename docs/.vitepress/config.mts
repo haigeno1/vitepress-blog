@@ -59,7 +59,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/haigeno1/vitepress-blog' }
     ],
     // 部署的时候需要注意该参数避免样式丢失
   },
