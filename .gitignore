@@ -2,7 +2,7 @@ node_modules
 dist
 .env
 .env.local
-cache
+docs/.vitepress/cache
 .temp
 .DS_Store
 .idea
