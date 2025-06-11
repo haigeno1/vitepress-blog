@@ -8,7 +8,7 @@
           repo="haigeno1/vitepress-blog"
           repo-id="R_kgDOO2h_CA"
           category="Show and tell"
-          category-id="DIC_kwDOMq5AVs4CiHAN"
+          category-id="DIC_kwDOO2h_CM4CrEic"
           mapping="pathname"
           strict="0"
           reactions-enabled="1"
