@@ -3,6 +3,7 @@
     <template #doc-footer-before> </template>
     <template #doc-after>
       <div style="margin-top: 24px">
+        <VisitorPanel></VisitorPanel>
         <Giscus
           :key="page.filePath"
           repo="haigeno1/vitepress-blog"
