@@ -10,8 +10,11 @@ export default defineConfig({
     [
       "script",
       {
-        src: "https://cloud.umami.is/script.js",
-        "data-website-id": "81631700-b322-442c-90a2-9a01f8e640b5",
+        // src: "https://haige.work/script_myxxx.js",
+        src: "http://haige.work:3000/script_myxxx.js",
+        // src: "http://localhost:3000/script_myxxx.js",
+        // src: "http://localhost:3000/script.js",
+        "data-website-id": "f7258b02-9e78-46e3-ad1e-0f0b30dfd9f7",
       },
     ],
   ],
